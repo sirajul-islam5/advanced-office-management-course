@@ -1,4 +1,4 @@
-# Advanced Office Management - Offline Program 
+# Advanced Office Management - Professional Course 
 
 ## Course Info: 
 - Course Title: Advanced Office Management 
