@@ -31,3 +31,7 @@
 ## Certificate: 
 
 ![Certificate:](certificate.png)
+
+---
+
+> *The program was a fully offline version, so the certificate is included here along with the full course structure.*
