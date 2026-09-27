@@ -4,10 +4,10 @@
 - Course Title: Advanced Office Management 
 - Lead Instructor: Engr. Md. Nasir Uddin 
 - Course Duration: 12 weeks (3 Classes/Week, 2 Hours Each) 
-- Total Sessions: 36 Live Classes + 1 Final assessment 
+- Total Sessions: 36 Live Classes + 1 Final Assessment 
 - Mode: Offline 
-- Language: Bangla Medium 
-- Certification: Course Completion Certificate has been provided  
+- Certification: A Course Completion Certificate has been provided 
+- About Certificate: The provided certificate is a hardcopy 
 - Resources Included: PDF Notes & Practice Files 
 
 ---
