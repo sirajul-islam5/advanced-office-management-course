@@ -7,7 +7,7 @@
 - Total Sessions: 36 Live Classes + 1 Final assessment 
 - Mode: Offline 
 - Language: Bangla Medium 
-- Certification: Course Completion Certificate Provided 
+- Certification: Course Completion Certificate has been provided  
 - Resources Included: PDF Notes & Practice Files 
 
 ---
